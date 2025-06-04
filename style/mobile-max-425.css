@@ -1,0 +1,15 @@
+@media only screen and (max-width: 425px) {
+    .main-text-powerpoint-container h2 {
+        font-size: 1rem;
+        margin: 0;
+        margin-top: 50px;
+    }
+
+    .dropzone-container-p {
+        font-size: 0.9rem;
+    }
+
+    .main-text-powerpoint-button {
+        font-size: 0.8rem;
+    }
+}
