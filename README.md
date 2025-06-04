@@ -2,4 +2,4 @@ This is a Web application for saving text from PowerPoint presentations. Impleme
 
 *At the moment, it only works with .pptx files (there is no support for the format until 2003 .ppt)
 
-Processing occurs on my server by API. ChatGPT wrote files, so the processing code is not presented, because This Pet-project to demonstrate what I can write precisely.
+Processing takes place on my server via an API. The processing code is not included because ChatGPT generated the files — this is a pet project meant to demonstrate my ability to write precise code.
